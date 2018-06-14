@@ -23,7 +23,7 @@ public class XGeeks {
 			JOptionPane.showMessageDialog(null, "Emilio's super power is " + Emilio + "!");
 	}
 		if (name.equals("John Paul")) {
-			JOptionPane.showMessageDialog(null, "John Paul's super power is" + johnPaul + "!");
+			JOptionPane.showMessageDialog(null, "John Paul's super power is being " + johnPaul + "!");
 		}
 		}
 	}
